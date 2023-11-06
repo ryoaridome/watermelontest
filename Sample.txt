@@ -1,3 +1,5 @@
 2023/11/02 Hello World!
 
-2023/11/06 Hello World!
+2023/11/06 ローカルリポジトリ Hello World!
+
+2023/11/06 リモートリポジトリ Hello World!
